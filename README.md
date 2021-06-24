@@ -20,3 +20,7 @@
 <a href="https://github.com/search?q=user%3Adanielsr-cit+is%3Arepo+language%3Acsharp">
       <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white">
 </a>
+<a href="#">
+      <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+</a>
+<a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio&logoColor=white"></a>
