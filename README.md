@@ -4,7 +4,7 @@
       <img alt="danielsr-cit's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=danielsr-cit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180em"/>
  </a>
 
-# My favorite tecnologies
+# My Favorite Tecnologies
 
 <a href="https://github.com/search?q=user%3Adanielsr-cit+is%3Arepo+language%3Acpp">
       <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
