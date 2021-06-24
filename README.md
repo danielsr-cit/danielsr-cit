@@ -11,3 +11,12 @@
 <a href="https://github.com/danielsr-cit/github-readme-activity-graph">
   <img alt="danielsr-cit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=danielsr-cit&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
+
+# My favorite tecnologies
+
+<a href="https://github.com/search?q=user%3Adanielsr-cit+is%3Arepo+language%3Acpp">
+      <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+</a>
+<a href="https://github.com/search?q=user%3Adanielsr-cit+is%3Arepo+language%3Acsharp">
+      <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white">
+</a>
